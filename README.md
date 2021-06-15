@@ -34,19 +34,24 @@ Service detection performed. Please report any incorrect results at https://nmap
 # Nmap done at Fri Jun 11 18:00:15 2021 -- 1 IP address (1 host up) scanned in 40.66 seconds
 ```
 
-![[Pasted image 20210611183539.png]]
+![](https://i.imgur.com/9ww29ow.png)
 
-![[Pasted image 20210611183621.png]]
+
+![](https://i.imgur.com/vo2OL1t.png)
+
 
 ```bash
 /dr34m3rs
 ```
 
-![[Pasted image 20210611183701.png]]
+![](https://i.imgur.com/j4VyOh3.png)
 
-![[Pasted image 20210611183735.png]]
 
-![[Pasted image 20210611184147.png]]
+![](https://i.imgur.com/8xFsrXw.png)
+
+
+![](https://i.imgur.com/MSdXdvP.png)
+
 
 ![](https://i.imgur.com/vQgF9N7.png)
 
@@ -56,13 +61,16 @@ ch3ck_1n
 ```
 
 
-![[Pasted image 20210611183752.png]]
+![](https://i.imgur.com/J9wX98q.png)
+
+If we look first letters we seen that it is drunk3n  
 
 ```bash
 http://10.10.41.156/drunk3n/
 ```
 
-![[Pasted image 20210611191558.png]]
+![](https://i.imgur.com/rmixhdA.png)
+
 
 ![](https://i.imgur.com/bfIX7XJ.png)
 
